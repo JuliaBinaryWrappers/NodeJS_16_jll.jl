@@ -1,0 +1,104 @@
+[[NodeJS_16]]
+arch = "aarch64"
+git-tree-sha1 = "8a40a6b45c8147b1a851842733b05d46ab5faf9b"
+os = "macos"
+
+    [[NodeJS_16.download]]
+    sha256 = "a6a098f8f26d238581b8e9fbef2d446fbed548da5ca23bf0a14b36b6f00ef59b"
+    url = "https://github.com/JuliaBinaryWrappers/NodeJS_16_jll.jl/releases/download/NodeJS_16-v16.0.0+0/NodeJS_16.v16.0.0.aarch64-apple-darwin.tar.gz"
+[[NodeJS_16]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f6c583129b275947bde6f74a10946ced4f71386c"
+libc = "glibc"
+os = "linux"
+
+    [[NodeJS_16.download]]
+    sha256 = "435816dd2969d32ab224f4a970d00f6cf20f2eb60212957a01830d8ecd24f29b"
+    url = "https://github.com/JuliaBinaryWrappers/NodeJS_16_jll.jl/releases/download/NodeJS_16-v16.0.0+0/NodeJS_16.v16.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[NodeJS_16]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "85eb951ffcbb5330ec9216605f6230ba7759ee44"
+libc = "musl"
+os = "linux"
+
+    [[NodeJS_16.download]]
+    sha256 = "772b36384b7c0b6b2bb1447ef9067a9b09c7fc8f2ea446676502e08cd4cb640e"
+    url = "https://github.com/JuliaBinaryWrappers/NodeJS_16_jll.jl/releases/download/NodeJS_16-v16.0.0+0/NodeJS_16.v16.0.0.aarch64-linux-musl-cxx11.tar.gz"
+[[NodeJS_16]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e6d923d8a0bfc5915d28a5a4e533ef457e4da3dc"
+libc = "glibc"
+os = "linux"
+
+    [[NodeJS_16.download]]
+    sha256 = "2657e8a8254d738b8ef662c6cac28b778b4270a801cc19d8c6019f916473f731"
+    url = "https://github.com/JuliaBinaryWrappers/NodeJS_16_jll.jl/releases/download/NodeJS_16-v16.0.0+0/NodeJS_16.v16.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[NodeJS_16]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1a9922f436bef333a7cb08e297770f1b4e2e28e8"
+libc = "musl"
+os = "linux"
+
+    [[NodeJS_16.download]]
+    sha256 = "f8c143f6ef8d7c8ed1c1cb9de2e4d237cdb79273201d452120b4b238a83d5127"
+    url = "https://github.com/JuliaBinaryWrappers/NodeJS_16_jll.jl/releases/download/NodeJS_16-v16.0.0+0/NodeJS_16.v16.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[NodeJS_16]]
+arch = "i686"
+git-tree-sha1 = "372ba16b134292537add62161ddda27ddf3e4f5b"
+os = "windows"
+
+    [[NodeJS_16.download]]
+    sha256 = "3c3796b48daffd42afb841db079f6a1c835a1a6daaf083ebcc260b5f681736ce"
+    url = "https://github.com/JuliaBinaryWrappers/NodeJS_16_jll.jl/releases/download/NodeJS_16-v16.0.0+0/NodeJS_16.v16.0.0.i686-w64-mingw32.tar.gz"
+[[NodeJS_16]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "383b34dbbc1269ebbb6e9cff7bfbe330bcb875c2"
+libc = "glibc"
+os = "linux"
+
+    [[NodeJS_16.download]]
+    sha256 = "cced2dd57a74453cbd22bbf0077bf9f68c0a9807d5ecf16e40176fbb33482010"
+    url = "https://github.com/JuliaBinaryWrappers/NodeJS_16_jll.jl/releases/download/NodeJS_16-v16.0.0+0/NodeJS_16.v16.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[NodeJS_16]]
+arch = "x86_64"
+git-tree-sha1 = "ab8510e51256dcad779016a032d3012794daa038"
+os = "macos"
+
+    [[NodeJS_16.download]]
+    sha256 = "b1bb6b119d6d22a4a477b7fc2fe71c3baf295780148c8d3071f9bb291d6f2c71"
+    url = "https://github.com/JuliaBinaryWrappers/NodeJS_16_jll.jl/releases/download/NodeJS_16-v16.0.0+0/NodeJS_16.v16.0.0.x86_64-apple-darwin.tar.gz"
+[[NodeJS_16]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "088968ceebc8b2b775529fb2212ca869bb376051"
+libc = "glibc"
+os = "linux"
+
+    [[NodeJS_16.download]]
+    sha256 = "54efc41026eb0b2bd3885bd05f90a322713aa6169fbbea71efb44d2e91e53244"
+    url = "https://github.com/JuliaBinaryWrappers/NodeJS_16_jll.jl/releases/download/NodeJS_16-v16.0.0+0/NodeJS_16.v16.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[NodeJS_16]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2ea7ffa9215c5a4d0c5a632014eda31d9c3c1994"
+libc = "musl"
+os = "linux"
+
+    [[NodeJS_16.download]]
+    sha256 = "331065424b6b3330e953b43d7a809f15c7ae7d6fb25413681e7e53884f89ca53"
+    url = "https://github.com/JuliaBinaryWrappers/NodeJS_16_jll.jl/releases/download/NodeJS_16-v16.0.0+0/NodeJS_16.v16.0.0.x86_64-linux-musl-cxx11.tar.gz"
+[[NodeJS_16]]
+arch = "x86_64"
+git-tree-sha1 = "dad43643bba6d51f72405e7e6230538471d81421"
+os = "windows"
+
+    [[NodeJS_16.download]]
+    sha256 = "82414d81d580e496cdf1253a429c7de9808baacf956158b6ea8ba512eb32c38d"
+    url = "https://github.com/JuliaBinaryWrappers/NodeJS_16_jll.jl/releases/download/NodeJS_16-v16.0.0+0/NodeJS_16.v16.0.0.x86_64-w64-mingw32.tar.gz"
