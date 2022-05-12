@@ -1,6 +1,6 @@
 name = "NodeJS_16_jll"
 uuid = "a4b94fbf-73f5-58ff-888d-48a8396e17f6"
-version = "16.0.0+0"
+version = "16.15.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
